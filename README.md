@@ -9,3 +9,5 @@
 - JSP: 실전 JSP (renew ver.) - 신입 프로그래머를 위한 강좌<BR>
 - C/C++: C 와 C++ 을 동시에 배워보자 - 두들낙서의 C/C++<BR>
 - 알고리즘: 영리한 프로그래밍을 위한 알고리즘 강좌<BR>
+- DSC_Algorithm_C++: Developer Student Clubs(DSC) 알고리즘 세션<BR>
+
